@@ -14,6 +14,7 @@ public class HW {
 				System.out.print(wow2d[row][col]+ "\t");
 			}
 			System.out.println();
+			System.out.println("WoW");
 		}
 	}
 
